@@ -8,10 +8,8 @@ a = int(input("Enter the first term of the sequence = "))
 d = int(input("Enter the common difference of the sequence = "))
 nb = int(input("Enter the number of the terms = "))
 
-# initialization
+# initializations
 term = a
-
-# initialization of the sum
 sum = 0
 
 # loop that displays the nb first terms of the sequence
