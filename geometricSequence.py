@@ -6,7 +6,7 @@
 # keyboarding of the first term, common ratio and number of terms
 a = int(input("Enter the first term of the sequence = "))
 r = int(input("Enter the common ratio of the sequence = "))
-nb = int(input("Enter the number of the terms = "))
+nb = int(input("Enter the number of terms = "))
 
 # initializations
 term = a
