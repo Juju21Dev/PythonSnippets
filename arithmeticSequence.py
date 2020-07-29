@@ -6,7 +6,7 @@
 # keyboarding of the first term, common difference and number of terms
 a = int(input("Enter the first term of the sequence = "))
 d = int(input("Enter the common difference of the sequence = "))
-nb = int(input("Enter the number of terms = "))
+nb = int(input("Enter the number of the terms = "))
 
 # initialization
 term = a
